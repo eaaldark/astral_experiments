@@ -1,0 +1,25 @@
+{
+  "name": "astral_experiments",
+  "version": "0.0.1",
+  "description": "Este proyecto solo contiene pruebas de cosas que van a ser usadas en backend o frontend, por el cual se evitara hacer pendejadas en cosas serias",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaaldark/astral_experiments.git"
+  },
+  "author": "eaaldark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaaldark/astral_experiments/issues"
+  },
+  "homepage": "https://github.com/eaaldark/astral_experiments#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0"
+  }
+}
